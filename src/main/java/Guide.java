@@ -25,7 +25,7 @@ public class Guide {
      * this variable to tell different Guide objects apart.
      */
     int id;
-
+/*I made a change */
     /**
      * This is a CONSTRUCTOR. Whenever we instantiate an object, a constructor is called.
      * Instantiation is process of creating a new Object, which uses this Class as a blueprint for a real
